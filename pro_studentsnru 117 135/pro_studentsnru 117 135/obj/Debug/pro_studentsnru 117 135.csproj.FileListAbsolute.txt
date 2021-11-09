@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\bin\Debug\pro_studentsnru 117 135.exe.config
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\bin\Debug\pro_studentsnru 117 135.exe
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\bin\Debug\pro_studentsnru 117 135.pdb
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru 117 135.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru_117_135.Form1.resources
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru_117_135.Properties.Resources.resources
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru 117 135.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru 117 135.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru 117 135.exe
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru 117 135.pdb
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru_117_135.menu.resources
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru_117_135.Register.resources
+C:\Users\ASUS\source\repos\pro_studentsnru 117 135\pro_studentsnru 117 135\obj\Debug\pro_studentsnru_117_135.test.resources
